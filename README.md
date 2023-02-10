@@ -1,3 +1,3 @@
 # dumac
 
-This will contain the publicly available dataset and implementation of our paper when published.
+A collection of files from Durham University Masters programme, while attempting to develop a paper for publication.
